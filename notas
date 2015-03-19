@@ -1,0 +1,4 @@
+dropwiz-proto
+
+
+$ mvn archetype:generate -DgroupId=com.tincorad.dwproto -DartifactId=dropwiz-proto -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
